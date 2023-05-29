@@ -110,6 +110,14 @@ To run tests, run the following command:
 npm run test
 ```
 
+### Key Features <a name="key-features"></a>
+
+> In this project you can see that it has the following
+
+- I have setup React correctly.
+- I have setup linters correctly.
+
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- AUTHORS -->
