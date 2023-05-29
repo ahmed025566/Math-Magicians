@@ -87,7 +87,7 @@ In order to run this project you need:
 In order to clone this repository to your desired folder, run the commands below on your console:
 
 ```sh
-    git clone https://github.com/ahmed025566/React-App.git
+    git clone https://github.com/ahmed025566/Math-Magicians.git
 ```
 
 ### Install
