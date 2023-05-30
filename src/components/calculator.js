@@ -33,12 +33,6 @@ const Calculator = () => (
         <Button symbol="-" color="#f2a33c"/>
         </div>
         <div className='raw'>
-        <Button symbol="A/c"/>
-        <Button symbol="+/-"/>
-        <Button symbol="%"/>
-        <Button symbol="+" color="#f2a33c"/>
-        </div>
-        <div className='raw'>
         <Button symbol="1"/>
         <Button symbol="2"/>
         <Button symbol="3"/>
