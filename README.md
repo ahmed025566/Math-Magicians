@@ -116,6 +116,7 @@ npm run test
 
 - I have setup React correctly.
 - I have setup linters correctly.
+- I have created the UI for the calculator
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
