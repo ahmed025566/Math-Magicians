@@ -22,6 +22,8 @@
       "dist/",
       "build/",
       "index.js",
-      "App.test.js"
+      "App.test.js",
+      "App.js",
+      "calculator.js"
     ]
   }
