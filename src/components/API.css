@@ -1,0 +1,30 @@
+@import url("https://fonts.googleapis.com/css2?family=Shantell+Sans:wght@300;400;500&display=swap");
+
+.container {
+    display: flex;
+   flex-direction: column;
+}
+
+.quote {
+    text-align: center;
+    margin-top: -100px;
+    margin-left: -100px;
+    font-size: 22px;
+    font-family: 'Shantell Sans', cursive;
+    width: 700px;
+    align-self: flex-start;
+}
+
+.author {
+    margin-left: 335px;
+    font-size: 22px;
+    font-family: 'Shantell Sans', cursive;
+    align-self: flex-end;
+}
+
+.load {
+    width: 500px;
+    text-align: center;
+    font-size: 35px;
+    font-family: 'Shantell Sans', cursive;;
+}
