@@ -1,7 +1,7 @@
 import { useState, useEffect } from 'react';
-import './API.css';
+import './Quotes.css';
 
-function Fetch() {
+function Quotes() {
   const [data, setData] = useState([]);
   const [author, setAuthor] = useState('');
   const [loading, setLoading] = useState(false);
@@ -38,4 +38,4 @@ function Fetch() {
   );
 }
 
-export default Fetch;
+export default Quotes;
