@@ -24,7 +24,7 @@
       "index.js",
       "App.test.js",
       "App.js",
-      "operate.js"
-      // "calculator.js"
+      "operate.js",
+      "calculator.jsx"
     ]
   }

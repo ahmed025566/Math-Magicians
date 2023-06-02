@@ -26,8 +26,7 @@ REQUIRED SECTIONS:
 - [📖 About the Project](#about-project)
   - [🛠 Built With](#built-with)
     - [Tech Stack](#tech-stack)
-  - [🚀 Live Demo](#live-demo)
-- [💻 Getting Started](#getting-started)
+  - [💻 Getting Started](#getting-started)
   - [Setup](#setup)
   - [Prerequisites](#prerequisites)
   - [Install](#install)
@@ -118,6 +117,7 @@ npm run test
 - I have setup linters correctly.
 - I have created the UI for the calculator.
 - I have created the logic of the calculator.
+- It has a random quote generator.
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
