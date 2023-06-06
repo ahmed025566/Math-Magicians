@@ -118,6 +118,7 @@ npm run test
 - I have created the UI for the calculator.
 - I have created the logic of the calculator.
 - It has a random quote generator.
+- I have implemented SPA cocept using React Router.
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -135,10 +136,6 @@ npm run test
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## 🔭 Future Features <a name="future-features"></a>
-
-- **Home Page:** It will have a home page with a cool intro about the website.
-- **Calculator:** It will have a simple calculator.
-- **Random Quote Generartor:** It will have a random quote generator that will display a diffrent quote every time the page will reload.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
