@@ -16,7 +16,7 @@ function Quotes() {
         .then((response) => response.json())
         .then((quote) => {
           setData(quote[0].quote);
-          setAuthor(quote[0].author);
+          setAuthor(` - ${quote[0].author}`);
           setLoading(false);
         })
         .catch((err) => {
@@ -29,12 +29,14 @@ function Quotes() {
   }, [setData]);
 
   return (
-  <div className='container'>
-    <p className='load'>{loading ? <>Loading..</> : <></>}</p>
-    <p className='error'>{error === '' ? <></> : <>{error}</>}</p>
-=    <blockquote className='quote'>{data}</blockquote>
-    <address className='author'>{author}</address>
-  </div>
+    <div className="container">
+      <p className="load">{loading ? <>Loading..</> : <></>}</p>
+      <p className="error">{error === '' ? <></> : <>{error}</>}</p>
+      <blockquote className="quote">
+        {data}
+        {author}
+      </blockquote>
+    </div>
   );
 }
 

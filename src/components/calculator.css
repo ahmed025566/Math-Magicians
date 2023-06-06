@@ -1,11 +1,23 @@
+.calculator-section {
+  display: flex;
+}
+
+.intro {
+  font-size: 30px;
+  margin-top: 20px;
+  margin-left: 40px;
+}
+
 .calc-wrapper {
-  width: 100%;
-  height: 100%;
+  width: 350px;
+  position: relative;
+  left: 45%;
+  top: 30px;
 }
 
 .input-wrapper {
   width: 100%;
-  height: 120px;
+  height: 100px;
   margin-bottom: 1px;
   background-color: gray;
   display: flex;
@@ -15,12 +27,11 @@
   color: white;
   padding-right: 10px;
   box-sizing: border-box;
-  border-bottom: 1px solid black;
 }
 
 .button-wrapper {
   width: 130px;
-  height: 90px;
+  height: 70px;
   margin: 1px;
   background-color: #d3d3d3;
   display: flex;
@@ -29,6 +40,7 @@
   cursor: pointer;
   font-weight: 700;
   font-size: 16px;
+  border: none;
 }
 
 .raw {
