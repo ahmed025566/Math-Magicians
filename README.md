@@ -25,7 +25,8 @@ REQUIRED SECTIONS:
 
 - [📖 About the Project](#about-project)
   - [🛠 Built With](#built-with)
-    - [Tech Stack](#tech-stack)
+    - [Tech Stack](#tech-stack) 
+    - [🚀 Live Demo](#live-demo)
   - [💻 Getting Started](#getting-started)
   - [Setup](#setup)
   - [Prerequisites](#prerequisites)
@@ -68,6 +69,13 @@ Math Magicians is a single page application which will have a cool calculator an
 </details>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+## 🚀 Live Demo <a name="live-demo"></a>
+
+> Here is a link to the demo project.
+
+- [Live Demo Link](https://math-magicians-94zm.onrender.com)
+
 
 ## 💻 Getting Started <a name="getting-started"></a>
 

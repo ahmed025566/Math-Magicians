@@ -15,6 +15,7 @@ function Quotes() {
       })
         .then((response) => response.json())
         .then((quote) => {
+          console.log(quote);
           setData(quote[0].quote);
           setAuthor(` - ${quote[0].author}`);
           setLoading(false);
